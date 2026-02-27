@@ -1,10 +1,49 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
+<html lang="es" class="translated-ltr"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>mesasvip.laplayaok</title>
+<meta name="generator" content="Jekyll v3.10.0">
+<meta property="og:title" content="mesasvip.laplayaok">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://laplaya-ok.github.io/mesasvip.laplayaok/">
+<meta property="og:url" content="https://laplaya-ok.github.io/mesasvip.laplayaok/">
+<meta property="og:site_name" content="mesasvip.laplayaok">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="mesasvip.laplayaok">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"mesasvip.laplayaok","name":"mesasvip.laplayaok","url":"https://laplaya-ok.github.io/mesasvip.laplayaok/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/mesasvip.laplayaok/assets/css/style.css?v=b92f746d0cb983a3b76baf04f9a3400a9cd7ddf4">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/mesasvip.laplayaok/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  <link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.2f3WBw8L4SI.L.W.O/am=AAAM/d=0/rs=AN8SPfp0Aw7R6LuNGcvWztc4ZbKYxlauww/m=el_main_css"></head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://laplaya-ok.github.io/mesasvip.laplayaok/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">mesasvip.laplayaok</font></font></a></h1>
+      
+
+      <p><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">&lt;!DOCTYPE html&gt;</font></font></p>
+
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Mesas VIP – La Playa Aniversario IX</title>
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&amp;display=swap" rel="stylesheet">
 <style>
   :root {
     --bg: #5a1a06;
@@ -369,40 +408,40 @@
     .admin-table-row select{grid-column:1/-1;}
   }
 </style>
-</head>
-<body>
+
+
 
 <header>
   <div class="brand">
     <div class="brand-left">
-      <div class="brand-name">La Playa</div>
-      <div class="brand-sub">Aniversario IX</div>
+      <div class="brand-name"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">La Playa</font></font></div>
+      <div class="brand-sub"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Aniversario IX</font></font></div>
     </div>
     <div class="brand-date">
-      <div class="date">30.04.26</div>
-      <div class="venue-sub">Morocco</div>
+      <div class="date"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">30.04.26</font></font></div>
+      <div class="venue-sub"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Marruecos</font></font></div>
     </div>
   </div>
-  <h1>MESAS VIP</h1>
+  <h1><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Mesas VIP</font></font></h1>
 </header>
 
 <!-- SOLD % BAR -->
 <div class="sold-bar-wrap">
   <div class="sold-bar-header">
-    <div class="sold-bar-label">Disponibilidad</div>
-    <div class="sold-bar-pct" id="soldPct">0% vendido</div>
+    <div class="sold-bar-label"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Disponibilidad</font></font></div>
+    <div class="sold-bar-pct" id="soldPct"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">0% vendido</font></font></div>
   </div>
   <div class="sold-bar-track"><div class="sold-bar-fill" id="soldFill" style="width:0%"></div></div>
-  <div class="sold-bar-detail" id="soldDetail"></div>
+  <div class="sold-bar-detail" id="soldDetail"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">0 agotadas · 0 reservadas · 34 disponibles</font></font></div>
 </div>
 
 <!-- LEGEND -->
 <div class="legend">
-  <div class="legend-item"><div class="dot ds"></div> Silver</div>
-  <div class="legend-item"><div class="dot dg"></div> Gold</div>
-  <div class="legend-item"><div class="dot db"></div> Back</div>
-  <div class="legend-item"><div class="dot dr"></div> Reservada</div>
-  <div class="legend-item"><div class="dot dd"></div> Agotada</div>
+  <div class="legend-item"><div class="dot ds"></div><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Plata</font></font></div>
+  <div class="legend-item"><div class="dot dg"></div><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Oro</font></font></div>
+  <div class="legend-item"><div class="dot db"></div><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Atrás</font></font></div>
+  <div class="legend-item"><div class="dot dr"></div><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Reservada</font></font></div>
+  <div class="legend-item"><div class="dot dd"></div><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Agotada</font></font></div>
 </div>
 
 <!-- MAP -->
@@ -410,100 +449,100 @@
   <div class="venue">
     <div class="top-bar">
       <div class="ingreso-block">
-        <div class="label-ingreso">INGRESO</div>
-        <div class="arrows">↓ ↓</div>
+        <div class="label-ingreso"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">INGRESO</font></font></div>
+        <div class="arrows"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">↓ ↓</font></font></div>
       </div>
       <div style="display:flex;align-items:center;gap:8px;">
-        <span class="banos">🚻</span>
-        <div class="barra-central">BARRA 🍹</div>
-        <span class="banos">🚻</span>
+        <span class="banos"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🚻</font></font></span>
+        <div class="barra-central"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">BARRA 🍹</font></font></div>
+        <span class="banos"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🚻</font></font></span>
       </div>
     </div>
 
     <div class="floor">
       <!-- LEFT: VIP SILVER -->
       <div class="vip-silver-zone">
-        <div id="silverOuter" style="display:flex;flex-direction:column;gap:6px;"></div>
-        <div class="barra-lateral">🍹 BARRA</div>
-        <div class="silver-label-col">VIP SILVER</div>
-        <div class="silver-grid" id="silverGrid"></div>
+        <div id="silverOuter" style="display:flex;flex-direction:column;gap:6px;"><button class="table silver" data-id="9"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">9</font></font></button><button class="table silver" data-id="10"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">10</font></font></button><button class="table silver" data-id="11"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">11</font></font></button></div>
+        <div class="barra-lateral"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🍹 BARRA</font></font></div>
+        <div class="silver-label-col"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">VIP PLATA</font></font></div>
+        <div class="silver-grid" id="silverGrid"><button class="table silver" data-id="8"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">8</font></font></button><button class="table silver" data-id="7"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">7</font></font></button><button class="table silver" data-id="6"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">6</font></font></button><button class="table silver" data-id="5"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">5</font></font></button><button class="table silver" data-id="4"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">4</font></font></button><button class="table silver" data-id="3"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">3</font></font></button><button class="table silver" data-id="2"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">2</font></font></button><button class="table silver" data-id="1"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">1</font></font></button><button class="table silver" data-id="12"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">12</font></font></button></div>
       </div>
 
       <!-- CENTER: PISTA -->
       <div class="pista-col">
         <div class="pista-area">
-          <div class="pista-row" id="pistaTopRow"></div>
-          <div class="pista-text">P I S T A</div>
-          <div class="pista-row" id="pistaBottomRow"></div>
+          <div class="pista-row" id="pistaTopRow"><button class="table silver" data-id="23"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">23</font></font></button><button class="table silver" data-id="24"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">24</font></font></button><button class="table silver" data-id="25"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">25</font></font></button></div>
+          <div class="pista-text"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">PISTA</font></font></div>
+          <div class="pista-row" id="pistaBottomRow"><button class="table silver" data-id="20"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">20</font></font></button><button class="table silver" data-id="21"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">21</font></font></button><button class="table silver" data-id="22"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">22</font></font></button></div>
         </div>
       </div>
 
       <!-- RIGHT: BACK + CABINA -->
       <div class="right-col">
         <div class="back-zone">
-          <div class="back-label">BACK</div>
-          <div class="back-grid" id="backGrid"></div>
+          <div class="back-label"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">ATRÁS</font></font></div>
+          <div class="back-grid" id="backGrid"><button class="table back-t" data-id="27"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">27</font></font></button><button class="table back-t" data-id="28"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">28</font></font></button><button class="table back-t" data-id="26"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">26</font></font></button><button class="table back-t" data-id="29"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">29</font></font></button></div>
         </div>
         <div class="cabina">
-          <div class="cabina-icon">🎧</div>
-          <div class="cabina-label">CABINA</div>
+          <div class="cabina-icon"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🎧</font></font></div>
+          <div class="cabina-label"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">CABINA</font></font></div>
         </div>
       </div>
     </div>
 
     <!-- VIP GOLD -->
     <div class="vip-gold-zone">
-      <div class="gold-top-row" id="goldTopRow"></div>
+      <div class="gold-top-row" id="goldTopRow"><button class="table gold" data-id="35"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">35</font></font></button><button class="table gold" data-id="36"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">36</font></font></button><button class="table gold" data-id="37"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">37</font></font></button><button class="table gold" data-id="38"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">38</font></font></button><button class="table gold" data-id="39"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">39</font></font></button><button class="table gold" data-id="40"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">40</font></font></button></div>
       <div class="gold-mid-row">
-        <div class="gold-zone-label">VIP GOLD</div>
-        <div class="barra-gold">🍹 BARRA</div>
-        <div id="goldSideCol"></div>
+        <div class="gold-zone-label"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">VIP ORO</font></font></div>
+        <div class="barra-gold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🍹 BARRA</font></font></div>
+        <div id="goldSideCol"><button class="table gold" data-id="41"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">41</font></font></button><button class="table gold" data-id="42"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">42</font></font></button></div>
       </div>
-      <div class="gold-bottom-row" id="goldBottomRow"></div>
+      <div class="gold-bottom-row" id="goldBottomRow"><button class="table gold" data-id="30"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">30</font></font></button><button class="table gold" data-id="31"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">31</font></font></button><button class="table gold" data-id="32"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">32</font></font></button><button class="table gold" data-id="33"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">33</font></font></button></div>
     </div>
 
     <div class="bottom-row">
-      <div class="arrows" style="color:rgba(255,255,255,0.4)">↓ ↓</div>
-      <div class="terraza-label">TERRAZA</div>
+      <div class="arrows" style="color:rgba(255,255,255,0.4)"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">↓ ↓</font></font></div>
+      <div class="terraza-label"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">TERRAZA</font></font></div>
     </div>
   </div>
 </div>
 
 <!-- ADMIN TOGGLE -->
-<button class="admin-toggle" onclick="askPassword()">🔐 Panel Administrador</button>
+<button class="admin-toggle" onclick="askPassword()"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🔐 Administrador del panel</font></font></button>
 
 <!-- PASSWORD MODAL -->
 <div class="pw-overlay" id="pwOverlay">
   <div class="pw-box" style="position:relative;">
-    <button class="pw-close" onclick="closePw()">✕</button>
-    <div class="pw-icon">🔐</div>
-    <div class="pw-title">ACCESO ADMIN</div>
-    <div class="pw-subtitle">Solo personal autorizado</div>
+    <button class="pw-close" onclick="closePw()"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✕</font></font></button>
+    <div class="pw-icon"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🔐</font></font></div>
+    <div class="pw-title"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">ACCESO DE ADMINISTRACIÓN</font></font></div>
+    <div class="pw-subtitle"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Solo personal autorizado</font></font></div>
     <input class="pw-input" id="pwInput" type="password" placeholder="Contraseña" onkeydown="if(event.key==='Enter')checkPw()">
-    <div class="pw-error" id="pwError">Contraseña incorrecta</div>
-    <button class="pw-btn" onclick="checkPw()">Ingresar</button>
+    <div class="pw-error" id="pwError" style="display: none;"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Contraseña incorrecta</font></font></div>
+    <button class="pw-btn" onclick="checkPw()"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Ingresar</font></font></button>
   </div>
 </div>
 
 <!-- ADMIN PANEL -->
-<div class="admin-panel" id="adminPanel">
-  <div class="admin-panel-title">⚙ Configuración</div>
+<div class="admin-panel active" id="adminPanel">
+  <div class="admin-panel-title"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⚙ Configuración</font></font></div>
 
-  <div class="admin-section-title">WhatsApp para reservas</div>
+  <div class="admin-section-title"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">WhatsApp para reservas</font></font></div>
   <div class="admin-wa-row">
     <input class="admin-input" id="waNumber" type="text" placeholder="ej: 5491112345678" value="5491112345678">
   </div>
 
-  <div class="admin-section-title" style="margin-top:16px;">Mesas — precio, descripción y estado</div>
+  <div class="admin-section-title" style="margin-top:16px;"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Mesas: precio, descripción y estado</font></font></div>
   <div class="admin-col-headers">
-    <div>Mesa</div><div>Precio</div><div>Descripción</div><div>Estado</div>
+    <div><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Mesa</font></font></div><div><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Precio</font></font></div><div><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Descripción</font></font></div><div><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Estado</font></font></div>
   </div>
-  <div class="admin-tables-grid" id="adminGrid"></div>
+  <div class="admin-tables-grid" id="adminGrid"><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 1</font></font></div><input type="text" placeholder="Precio" data-id="1" data-field="price"><input type="text" placeholder="Descripción..." data-id="1" data-field="desc"><select data-id="1" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 2</font></font></div><input type="text" placeholder="Precio" data-id="2" data-field="price"><input type="text" placeholder="Descripción..." data-id="2" data-field="desc"><select data-id="2" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 3</font></font></div><input type="text" placeholder="Precio" data-id="3" data-field="price"><input type="text" placeholder="Descripción..." data-id="3" data-field="desc"><select data-id="3" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 4</font></font></div><input type="text" placeholder="Precio" data-id="4" data-field="price"><input type="text" placeholder="Descripción..." data-id="4" data-field="desc"><select data-id="4" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 5</font></font></div><input type="text" placeholder="Precio" data-id="5" data-field="price"><input type="text" placeholder="Descripción..." data-id="5" data-field="desc"><select data-id="5" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 6</font></font></div><input type="text" placeholder="Precio" data-id="6" data-field="price"><input type="text" placeholder="Descripción..." data-id="6" data-field="desc"><select data-id="6" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 7</font></font></div><input type="text" placeholder="Precio" data-id="7" data-field="price"><input type="text" placeholder="Descripción..." data-id="7" data-field="desc"><select data-id="7" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 8</font></font></div><input type="text" placeholder="Precio" data-id="8" data-field="price"><input type="text" placeholder="Descripción..." data-id="8" data-field="desc"><select data-id="8" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 9</font></font></div><input type="text" placeholder="Precio" data-id="9" data-field="price"><input type="text" placeholder="Descripción..." data-id="9" data-field="desc"><select data-id="9" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 10</font></font></div><input type="text" placeholder="Precio" data-id="10" data-field="price"><input type="text" placeholder="Descripción..." data-id="10" data-field="desc"><select data-id="10" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 11</font></font></div><input type="text" placeholder="Precio" data-id="11" data-field="price"><input type="text" placeholder="Descripción..." data-id="11" data-field="desc"><select data-id="11" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 12</font></font></div><input type="text" placeholder="Precio" data-id="12" data-field="price"><input type="text" placeholder="Descripción..." data-id="12" data-field="desc"><select data-id="12" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 20</font></font></div><input type="text" placeholder="Precio" data-id="20" data-field="price"><input type="text" placeholder="Descripción..." data-id="20" data-field="desc"><select data-id="20" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 21</font></font></div><input type="text" placeholder="Precio" data-id="21" data-field="price"><input type="text" placeholder="Descripción..." data-id="21" data-field="desc"><select data-id="21" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 22</font></font></div><input type="text" placeholder="Precio" data-id="22" data-field="price"><input type="text" placeholder="Descripción..." data-id="22" data-field="desc"><select data-id="22" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 23</font></font></div><input type="text" placeholder="Precio" data-id="23" data-field="price"><input type="text" placeholder="Descripción..." data-id="23" data-field="desc"><select data-id="23" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 24</font></font></div><input type="text" placeholder="Precio" data-id="24" data-field="price"><input type="text" placeholder="Descripción..." data-id="24" data-field="desc"><select data-id="24" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥈 25</font></font></div><input type="text" placeholder="Precio" data-id="25" data-field="price"><input type="text" placeholder="Descripción..." data-id="25" data-field="desc"><select data-id="25" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🎧 26</font></font></div><input type="text" placeholder="Precio" data-id="26" data-field="price"><input type="text" placeholder="Descripción..." data-id="26" data-field="desc"><select data-id="26" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🎧 27</font></font></div><input type="text" placeholder="Precio" data-id="27" data-field="price"><input type="text" placeholder="Descripción..." data-id="27" data-field="desc"><select data-id="27" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🎧 28</font></font></div><input type="text" placeholder="Precio" data-id="28" data-field="price"><input type="text" placeholder="Descripción..." data-id="28" data-field="desc"><select data-id="28" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🎧 29</font></font></div><input type="text" placeholder="Precio" data-id="29" data-field="price"><input type="text" placeholder="Descripción..." data-id="29" data-field="desc"><select data-id="29" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥇 30</font></font></div><input type="text" placeholder="Precio" data-id="30" data-field="price"><input type="text" placeholder="Descripción..." data-id="30" data-field="desc"><select data-id="30" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥇 31</font></font></div><input type="text" placeholder="Precio" data-id="31" data-field="price"><input type="text" placeholder="Descripción..." data-id="31" data-field="desc"><select data-id="31" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥇 32</font></font></div><input type="text" placeholder="Precio" data-id="32" data-field="price"><input type="text" placeholder="Descripción..." data-id="32" data-field="desc"><select data-id="32" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥇 33</font></font></div><input type="text" placeholder="Precio" data-id="33" data-field="price"><input type="text" placeholder="Descripción..." data-id="33" data-field="desc"><select data-id="33" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥇 35</font></font></div><input type="text" placeholder="Precio" data-id="35" data-field="price"><input type="text" placeholder="Descripción..." data-id="35" data-field="desc"><select data-id="35" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥇 36</font></font></div><input type="text" placeholder="Precio" data-id="36" data-field="price"><input type="text" placeholder="Descripción..." data-id="36" data-field="desc"><select data-id="36" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥇 37</font></font></div><input type="text" placeholder="Precio" data-id="37" data-field="price"><input type="text" placeholder="Descripción..." data-id="37" data-field="desc"><select data-id="37" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥇 38</font></font></div><input type="text" placeholder="Precio" data-id="38" data-field="price"><input type="text" placeholder="Descripción..." data-id="38" data-field="desc"><select data-id="38" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥇 39</font></font></div><input type="text" placeholder="Precio" data-id="39" data-field="price"><input type="text" placeholder="Descripción..." data-id="39" data-field="desc"><select data-id="39" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥇 40</font></font></div><input type="text" placeholder="Precio" data-id="40" data-field="price"><input type="text" placeholder="Descripción..." data-id="40" data-field="desc"><select data-id="40" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥇 41</font></font></div><input type="text" placeholder="Precio" data-id="41" data-field="price"><input type="text" placeholder="Descripción..." data-id="41" data-field="desc"><select data-id="41" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div><div class="admin-table-row"><div class="admin-table-id"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🥇 42</font></font></div><input type="text" placeholder="Precio" data-id="42" data-field="price"><input type="text" placeholder="Descripción..." data-id="42" data-field="desc"><select data-id="42" data-field="state"><option value="available"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✅</font></font></option><option value="reserved"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">🟠</font></font></option><option value="sold"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⛔</font></font></option></select></div></div>
 
   <div class="admin-actions">
-    <button class="btn-save" onclick="saveAdmin()">💾 Guardar cambios</button>
-    <button class="btn-export" onclick="exportHTML()">⬇ Exportar HTML</button>
-    <span class="saved-toast" id="savedToast">✓ Guardado</span>
+    <button class="btn-save" onclick="saveAdmin()"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">💾 Guardar cambios</font></font></button>
+    <button class="btn-export" onclick="exportHTML()"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">⬇ Exportar HTML</font></font></button>
+    <span class="saved-toast" id="savedToast"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✓ Guardado</font></font></span>
   </div>
 </div>
 
@@ -511,63 +550,231 @@
 <div class="modal-overlay" id="modalOverlay" onclick="closeModalOutside(event)">
   <div class="modal">
     <div class="modal-handle"></div>
-    <button class="btn-close" onclick="closeModal()">✕</button>
+    <button class="btn-close" onclick="closeModal()"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">✕</font></font></button>
     <div class="modal-zone-badge" id="modalBadge"></div>
     <div class="modal-title" id="modalTitle"></div>
     <div class="modal-price" id="modalPrice"></div>
     <div class="modal-desc" id="modalDesc"></div>
     <div class="modal-status" id="modalStatus"></div>
     <a class="btn-whatsapp" id="modalWA" href="#" target="_blank">
-      <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+      <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"></path></svg><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">
       Reservar por WhatsApp
-    </a>
+    </font></font></a>
   </div>
 </div>
 
 <script>
 // ─── CONFIG ──────────────────────────────────────────────────────────────────
-const CONFIG = {
-  waNumber: '5491112345678'
-};
+const CONFIG = {"waNumber":"5491151587368"};
 
 // ─── TABLE DATA ───────────────────────────────────────────────────────────────
 // zone: silver | gold | back
 // state: available | reserved | sold
 const TABLES = {
-  1:  { zone:'silver', state:'available', price:'$80.000', desc:'' },
-  2:  { zone:'silver', state:'available', price:'$80.000', desc:'' },
-  3:  { zone:'silver', state:'available', price:'$80.000', desc:'' },
-  4:  { zone:'silver', state:'available', price:'$85.000', desc:'' },
-  5:  { zone:'silver', state:'available', price:'$85.000', desc:'' },
-  6:  { zone:'silver', state:'available', price:'$85.000', desc:'' },
-  7:  { zone:'silver', state:'available', price:'$90.000', desc:'' },
-  8:  { zone:'silver', state:'available', price:'$90.000', desc:'' },
-  9:  { zone:'silver', state:'available', price:'$75.000', desc:'' },
-  10: { zone:'silver', state:'available', price:'$75.000', desc:'' },
-  11: { zone:'silver', state:'available', price:'$75.000', desc:'' },
-  12: { zone:'silver', state:'available', price:'$80.000', desc:'' },
-  20: { zone:'silver', state:'available', price:'$100.000', desc:'' },
-  21: { zone:'silver', state:'available', price:'$100.000', desc:'' },
-  22: { zone:'silver', state:'available', price:'$100.000', desc:'' },
-  23: { zone:'silver', state:'available', price:'$100.000', desc:'' },
-  24: { zone:'silver', state:'available', price:'$100.000', desc:'' },
-  25: { zone:'silver', state:'available', price:'$100.000', desc:'' },
-  26: { zone:'back',   state:'available', price:'$150.000', desc:'' },
-  27: { zone:'back',   state:'available', price:'$150.000', desc:'' },
-  28: { zone:'back',   state:'available', price:'$150.000', desc:'' },
-  29: { zone:'back',   state:'available', price:'$150.000', desc:'' },
-  30: { zone:'gold',   state:'available', price:'$120.000', desc:'' },
-  31: { zone:'gold',   state:'available', price:'$120.000', desc:'' },
-  32: { zone:'gold',   state:'available', price:'$120.000', desc:'' },
-  33: { zone:'gold',   state:'available', price:'$120.000', desc:'' },
-  35: { zone:'gold',   state:'available', price:'$130.000', desc:'' },
-  36: { zone:'gold',   state:'available', price:'$130.000', desc:'' },
-  37: { zone:'gold',   state:'available', price:'$130.000', desc:'' },
-  38: { zone:'gold',   state:'available', price:'$130.000', desc:'' },
-  39: { zone:'gold',   state:'available', price:'$130.000', desc:'' },
-  40: { zone:'gold',   state:'available', price:'$130.000', desc:'' },
-  41: { zone:'gold',   state:'available', price:'$140.000', desc:'' },
-  42: { zone:'gold',   state:'available', price:'$140.000', desc:'' },
+  "1": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$600.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "2": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$600.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "3": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$600.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "4": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$600.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "5": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$600.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "6": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$600.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "7": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$600.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "8": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$500.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "9": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$500.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "10": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$500.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "11": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$500.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "12": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$500.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "20": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$400.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "21": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$400.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "22": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$400.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "23": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$400.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "24": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$400.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "25": {
+    "zone": "silver",
+    "state": "available",
+    "price": "$400.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "26": {
+    "zone": "back",
+    "state": "available",
+    "price": "$700.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "27": {
+    "zone": "back",
+    "state": "available",
+    "price": "$700.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "28": {
+    "zone": "back",
+    "state": "available",
+    "price": "$700.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "29": {
+    "zone": "back",
+    "state": "available",
+    "price": "$700.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "30": {
+    "zone": "gold",
+    "state": "available",
+    "price": "$450.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "31": {
+    "zone": "gold",
+    "state": "available",
+    "price": "$450.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "32": {
+    "zone": "gold",
+    "state": "available",
+    "price": "$450.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "33": {
+    "zone": "gold",
+    "state": "available",
+    "price": "$450.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "35": {
+    "zone": "gold",
+    "state": "available",
+    "price": "$500.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "36": {
+    "zone": "gold",
+    "state": "available",
+    "price": "$500.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "37": {
+    "zone": "gold",
+    "state": "available",
+    "price": "$500.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "38": {
+    "zone": "gold",
+    "state": "available",
+    "price": "$500.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "39": {
+    "zone": "gold",
+    "state": "available",
+    "price": "$500.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "40": {
+    "zone": "gold",
+    "state": "available",
+    "price": "$500.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "41": {
+    "zone": "gold",
+    "state": "available",
+    "price": "$450.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  },
+  "42": {
+    "zone": "gold",
+    "state": "available",
+    "price": "$450.000",
+    "desc": "- Mesas para 10 pax con el 50% de su valor en consumo."
+  }
 };
 
 // ─── SOLD BAR ────────────────────────────────────────────────────────────────
@@ -784,5 +991,14 @@ function closePw() {
 // ─── INIT ─────────────────────────────────────────────────────────────────────
 renderMap();
 </script>
-</body>
-</html>
+
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script><div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: 'Google Sans', Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class="VIpgJd-yAWNEb-hvhgNd-Ud7fr"><img src="https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg" width="24" height="24" alt=""><div class=" VIpgJd-yAWNEb-hvhgNd-IuizWc-i3jM8c " dir="ltr">Texto original</div></div><div class="VIpgJd-yAWNEb-hvhgNd-k77Iif"><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">Valora esta traducción</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">Tu opinión servirá para ayudar a mejorar el Traductor de Google</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Buena traducción" aria-label="Buena traducción" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Mala traducción" aria-label="Mala traducción" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="//translate.googleapis.com/translate_voting?client=te_lib" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0"></iframe></div></div></div>
+  
+
+</body></html>
